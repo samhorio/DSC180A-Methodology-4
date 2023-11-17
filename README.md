@@ -1,3 +1,2 @@
 # DSC180A-Methodology-4
-Sam Horio
-shorio@ucsd.edu
+Sam Horio and Natalie Wu
